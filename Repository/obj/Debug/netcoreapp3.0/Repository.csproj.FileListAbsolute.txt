@@ -1,0 +1,16 @@
+C:\Users\rudbe\source\repos\HousingQueue\Repository\bin\Debug\netcoreapp3.0\Repository.deps.json
+C:\Users\rudbe\source\repos\HousingQueue\Repository\bin\Debug\netcoreapp3.0\Repository.dll
+C:\Users\rudbe\source\repos\HousingQueue\Repository\bin\Debug\netcoreapp3.0\Repository.pdb
+C:\Users\rudbe\source\repos\HousingQueue\Repository\obj\Debug\netcoreapp3.0\Repository.AssemblyInfoInputs.cache
+C:\Users\rudbe\source\repos\HousingQueue\Repository\obj\Debug\netcoreapp3.0\Repository.AssemblyInfo.cs
+C:\Users\rudbe\source\repos\HousingQueue\Repository\obj\Debug\netcoreapp3.0\Repository.dll
+C:\Users\rudbe\source\repos\HousingQueue\Repository\obj\Debug\netcoreapp3.0\Repository.pdb
+C:\Users\ramis\Desktop\tuc\programering c# fördjubning\lektioner\HousingQueue v6\Repository\bin\Debug\netcoreapp3.0\Repository.deps.json
+C:\Users\ramis\Desktop\tuc\programering c# fördjubning\lektioner\HousingQueue v6\Repository\bin\Debug\netcoreapp3.0\Repository.dll
+C:\Users\ramis\Desktop\tuc\programering c# fördjubning\lektioner\HousingQueue v6\Repository\bin\Debug\netcoreapp3.0\Repository.pdb
+C:\Users\ramis\Desktop\tuc\programering c# fördjubning\lektioner\HousingQueue v6\Repository\obj\Debug\netcoreapp3.0\Repository.csprojAssemblyReference.cache
+C:\Users\ramis\Desktop\tuc\programering c# fördjubning\lektioner\HousingQueue v6\Repository\obj\Debug\netcoreapp3.0\Repository.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\tuc\programering c# fördjubning\lektioner\HousingQueue v6\Repository\obj\Debug\netcoreapp3.0\Repository.AssemblyInfo.cs
+C:\Users\ramis\Desktop\tuc\programering c# fördjubning\lektioner\HousingQueue v6\Repository\obj\Debug\netcoreapp3.0\Repository.dll
+C:\Users\ramis\Desktop\tuc\programering c# fördjubning\lektioner\HousingQueue v6\Repository\obj\Debug\netcoreapp3.0\Repository.pdb
+C:\Users\ramis\Desktop\tuc\programering c# fördjubning\lektioner\HousingQueue v6\Repository\obj\Debug\netcoreapp3.0\Repository.csproj.CoreCompileInputs.cache

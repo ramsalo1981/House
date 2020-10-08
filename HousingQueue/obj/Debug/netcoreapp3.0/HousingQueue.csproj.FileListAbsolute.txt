@@ -1,0 +1,40 @@
+C:\Users\rudbe\source\repos\HousingQueue\HousingQueue\bin\Debug\netcoreapp3.0\HousingQueue.exe
+C:\Users\rudbe\source\repos\HousingQueue\HousingQueue\bin\Debug\netcoreapp3.0\HousingQueue.deps.json
+C:\Users\rudbe\source\repos\HousingQueue\HousingQueue\bin\Debug\netcoreapp3.0\HousingQueue.runtimeconfig.json
+C:\Users\rudbe\source\repos\HousingQueue\HousingQueue\bin\Debug\netcoreapp3.0\HousingQueue.runtimeconfig.dev.json
+C:\Users\rudbe\source\repos\HousingQueue\HousingQueue\bin\Debug\netcoreapp3.0\HousingQueue.dll
+C:\Users\rudbe\source\repos\HousingQueue\HousingQueue\bin\Debug\netcoreapp3.0\HousingQueue.pdb
+C:\Users\rudbe\source\repos\HousingQueue\HousingQueue\bin\Debug\netcoreapp3.0\DnsClient.dll
+C:\Users\rudbe\source\repos\HousingQueue\HousingQueue\bin\Debug\netcoreapp3.0\MongoDB.Bson.dll
+C:\Users\rudbe\source\repos\HousingQueue\HousingQueue\bin\Debug\netcoreapp3.0\MongoDB.Driver.dll
+C:\Users\rudbe\source\repos\HousingQueue\HousingQueue\bin\Debug\netcoreapp3.0\MongoDB.Driver.Core.dll
+C:\Users\rudbe\source\repos\HousingQueue\HousingQueue\bin\Debug\netcoreapp3.0\MongoDB.Libmongocrypt.dll
+C:\Users\rudbe\source\repos\HousingQueue\HousingQueue\bin\Debug\netcoreapp3.0\SharpCompress.dll
+C:\Users\rudbe\source\repos\HousingQueue\HousingQueue\bin\Debug\netcoreapp3.0\Repository.dll
+C:\Users\rudbe\source\repos\HousingQueue\HousingQueue\bin\Debug\netcoreapp3.0\Repository.pdb
+C:\Users\rudbe\source\repos\HousingQueue\HousingQueue\obj\Debug\netcoreapp3.0\HousingQueue.csprojAssemblyReference.cache
+C:\Users\rudbe\source\repos\HousingQueue\HousingQueue\obj\Debug\netcoreapp3.0\HousingQueue.AssemblyInfoInputs.cache
+C:\Users\rudbe\source\repos\HousingQueue\HousingQueue\obj\Debug\netcoreapp3.0\HousingQueue.AssemblyInfo.cs
+C:\Users\rudbe\source\repos\HousingQueue\HousingQueue\obj\Debug\netcoreapp3.0\HousingQueue.csproj.CopyComplete
+C:\Users\rudbe\source\repos\HousingQueue\HousingQueue\obj\Debug\netcoreapp3.0\HousingQueue.dll
+C:\Users\rudbe\source\repos\HousingQueue\HousingQueue\obj\Debug\netcoreapp3.0\HousingQueue.pdb
+C:\Users\ramis\Desktop\tuc\programering c# fördjubning\lektioner\HousingQueue v6\HousingQueue\bin\Debug\netcoreapp3.0\HousingQueue.exe
+C:\Users\ramis\Desktop\tuc\programering c# fördjubning\lektioner\HousingQueue v6\HousingQueue\bin\Debug\netcoreapp3.0\HousingQueue.deps.json
+C:\Users\ramis\Desktop\tuc\programering c# fördjubning\lektioner\HousingQueue v6\HousingQueue\bin\Debug\netcoreapp3.0\HousingQueue.runtimeconfig.json
+C:\Users\ramis\Desktop\tuc\programering c# fördjubning\lektioner\HousingQueue v6\HousingQueue\bin\Debug\netcoreapp3.0\HousingQueue.runtimeconfig.dev.json
+C:\Users\ramis\Desktop\tuc\programering c# fördjubning\lektioner\HousingQueue v6\HousingQueue\bin\Debug\netcoreapp3.0\HousingQueue.dll
+C:\Users\ramis\Desktop\tuc\programering c# fördjubning\lektioner\HousingQueue v6\HousingQueue\bin\Debug\netcoreapp3.0\HousingQueue.pdb
+C:\Users\ramis\Desktop\tuc\programering c# fördjubning\lektioner\HousingQueue v6\HousingQueue\bin\Debug\netcoreapp3.0\DnsClient.dll
+C:\Users\ramis\Desktop\tuc\programering c# fördjubning\lektioner\HousingQueue v6\HousingQueue\bin\Debug\netcoreapp3.0\MongoDB.Bson.dll
+C:\Users\ramis\Desktop\tuc\programering c# fördjubning\lektioner\HousingQueue v6\HousingQueue\bin\Debug\netcoreapp3.0\MongoDB.Driver.dll
+C:\Users\ramis\Desktop\tuc\programering c# fördjubning\lektioner\HousingQueue v6\HousingQueue\bin\Debug\netcoreapp3.0\MongoDB.Driver.Core.dll
+C:\Users\ramis\Desktop\tuc\programering c# fördjubning\lektioner\HousingQueue v6\HousingQueue\bin\Debug\netcoreapp3.0\MongoDB.Libmongocrypt.dll
+C:\Users\ramis\Desktop\tuc\programering c# fördjubning\lektioner\HousingQueue v6\HousingQueue\bin\Debug\netcoreapp3.0\SharpCompress.dll
+C:\Users\ramis\Desktop\tuc\programering c# fördjubning\lektioner\HousingQueue v6\HousingQueue\bin\Debug\netcoreapp3.0\Repository.dll
+C:\Users\ramis\Desktop\tuc\programering c# fördjubning\lektioner\HousingQueue v6\HousingQueue\bin\Debug\netcoreapp3.0\Repository.pdb
+C:\Users\ramis\Desktop\tuc\programering c# fördjubning\lektioner\HousingQueue v6\HousingQueue\obj\Debug\netcoreapp3.0\HousingQueue.csprojAssemblyReference.cache
+C:\Users\ramis\Desktop\tuc\programering c# fördjubning\lektioner\HousingQueue v6\HousingQueue\obj\Debug\netcoreapp3.0\HousingQueue.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\tuc\programering c# fördjubning\lektioner\HousingQueue v6\HousingQueue\obj\Debug\netcoreapp3.0\HousingQueue.AssemblyInfo.cs
+C:\Users\ramis\Desktop\tuc\programering c# fördjubning\lektioner\HousingQueue v6\HousingQueue\obj\Debug\netcoreapp3.0\HousingQueue.csproj.CopyComplete
+C:\Users\ramis\Desktop\tuc\programering c# fördjubning\lektioner\HousingQueue v6\HousingQueue\obj\Debug\netcoreapp3.0\HousingQueue.dll
+C:\Users\ramis\Desktop\tuc\programering c# fördjubning\lektioner\HousingQueue v6\HousingQueue\obj\Debug\netcoreapp3.0\HousingQueue.pdb
